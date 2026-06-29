@@ -1,0 +1,16 @@
+{
+  "type": "coverage_hole",
+  "example": "ex300_alu_ref",
+  "signature": "cov_state_07:reset_active",
+  "title": "Coverage hole: cov_state_07:reset_active",
+  "fingerprint": "0ded5744a94053b3",
+  "severity": "medium",
+  "evidence": {
+    "group": "cov_state_07",
+    "label": "reset_active"
+  },
+  "status": "open",
+  "first_seen": "2026-06-11T13:51:14",
+  "last_seen": "2026-06-24T11:16:19",
+  "seen_count": 3
+}
