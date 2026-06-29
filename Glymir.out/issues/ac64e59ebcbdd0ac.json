@@ -1,0 +1,16 @@
+{
+  "type": "coverage_hole",
+  "example": "ex300_alu_ref",
+  "signature": "cov_cross_04:a_max_b_zero",
+  "title": "Coverage hole: cov_cross_04:a_max_b_zero",
+  "fingerprint": "ac64e59ebcbdd0ac",
+  "severity": "medium",
+  "evidence": {
+    "group": "cov_cross_04",
+    "label": "a_max_b_zero"
+  },
+  "status": "open",
+  "first_seen": "2026-06-11T13:51:14",
+  "last_seen": "2026-06-24T11:16:19",
+  "seen_count": 3
+}
